@@ -1,5 +1,3 @@
-# Google AdMob (kept until the Unity Ads build is live on the App Store)
-google.com, pub-9470151435753810, DIRECT, f08c47fec0942fa0
 # Unity Ads (from the Unity dashboard, Monetization > Settings > App-ads.txt)
 unity.com, 151744181, DIRECT, 96cabb5fbdde37a7
 adwmg.com, 159512, RESELLER, c9688a22012618e7
